@@ -9,12 +9,12 @@ E-mail: sonsee2075@gmail.com
 ---------------------------------------------------------------
 <h3>[Revision history]</h3>
 </div>
-
+<center>
 | Revision date | Version # | Description |
 |:-------------:|:---------:|:-----------------------------------:|
 | 2026.03.27 | 0.01 | |
-
-<<div align="center">
+</center>
+<div align="center">
 <h3>= Contents =</h3> 
 
 <h3>1. Business purpose</h3>
@@ -43,16 +43,23 @@ E-mail: sonsee2075@gmail.com
 
 
 </span>
+
 -----------------------------------
 <h4>2. System context diagram</h4>
+
 ---------------------------------
 <h4>3. Use case list</h4>
+
 -------------------------------
 <h4>4. Concept of operation</h4>
+
 ----------------------------------
 <h4>5. Problem statement</h4>
+
 ------------------------------------
 <h4>6. Glossary</h4>
+
 ---------------------------
 <h4>7. References</h4>
+
 </div>
