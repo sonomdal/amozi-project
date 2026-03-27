@@ -8,7 +8,7 @@ E-mail: sonsee2075@gmail.com
 
 ---
 <h3>[Revision history]</h3>
-</div>
+
 | Revision date | Version # | Description |
 |:-------------:|:---------:|:-----------------------------------:|
 | 2026.03.27 | 0.1 | First draft |
