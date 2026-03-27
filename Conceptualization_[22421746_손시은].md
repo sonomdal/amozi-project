@@ -1,4 +1,3 @@
-<div align="center">
 <h1>AMOZI</h1>
 <h3>
 Student No: 22421746<br>
@@ -13,7 +12,8 @@ E-mail: sonsee2075@gmail.com
 |:-------------:|:---------:|:-----------------------------------:|
 | 2026.03.27 | 0.1 | First draft |
 
-<div align="center">
+---
+
 <h3>= Contents =</h3> 
 
 <h3>1. Business purpose</h3>
