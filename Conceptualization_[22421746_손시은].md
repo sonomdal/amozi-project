@@ -4,7 +4,8 @@
   
   Name: 손시은
   
-  E-mail: sonsee2075@gmail.com</h3>
+  E-mail: sonsee2075@gmail.com
+</h3>
   
 ---------------------------------
 <h1>Revision history</h1>
