@@ -31,10 +31,9 @@ E-mail: sonsee2075@gmail.com
 <h3>7. References</h3>
 
 -------------------------------------
-</div>
+
 <h4>1. Business purpose</h4>
 
-<span style="font-size:16px">
 1) Project background
  
 우리는 일상 생활에서 옷을 입을 때 TPO(Time, Place, Occasion)뿐만 아니라 날씨, 상황, 개인의 상태 등을 고려해야 한다. 하지만 이러한 요소를 모두 반영하여 마음에 드는 옷을 고르기는 쉽지 않다. 옷을 잘못 선택하게 된다면 덥거나 춥게 느낄 수도 있고 불편함을 겪을 수도 있다. 이러한 문제의식에서 시작하여 날씨와 상황에 따라 적절한 코디를 추천해주는 앱이 있으면 좋겠다는 생각이 들었고, 이 프로젝트를 기획하게 되었다.
@@ -168,9 +167,7 @@ E-mail: sonsee2075@gmail.com
 
 Overview
 
-사용자들은 매일 옷을 고를 때 날씨, 상황, 개인의 상태 등을 함께 고려해야 한다. 하지만 이러한 요소들을 모두 반영하여 적절한 옷을 선택하는 것은 쉽지 않으며, 이로 인해 불편함을 겪는 경우가 많다. 또한 매일 반복되는 의상 선택 과정은 시간과 노력이 든다.
-
-기존의 추천 서비스는 개인의 선호도나 체감 온도를 충분히 반영하지 못하는 경우가 많다. AMOZI 또한 외부 API를 활용하기 때문에 기술적인 어려움이 존재한다. 아래에서는 이러한 문제들을 구체적으로 설명한다.
+사용자들은 매일 옷을 고를 때 날씨, 상황, 개인의 상태 등을 함께 고려해야 한다. 하지만 이러한 요소들을 모두 반영하여 적절한 옷을 선택하는 것은 쉽지 않으며, 이로 인해 불편함을 겪는 경우가 많다. 또한 매일 반복되는 의상 선택 과정은 시간과 노력이 든다. 기존의 추천 서비스는 개인의 선호도나 체감 온도를 충분히 반영하지 못하는 경우가 많다. AMOZI 또한 외부 API를 활용하기 때문에 기술적인 어려움이 존재한다. 아래에서는 이러한 문제들을 구체적으로 설명한다.
 
 Problem #1: Outfit Selection Difficulty
 
@@ -238,5 +235,4 @@ NFRs
 
 * OpenWeather API Documentation, https://openweathermap.org/api
 * Google Cloud Weather Data Overview, https://cloud.google.com/
-  
-</div>
+* OpenAI API Documentation, https://platform.openai.com/docs
