@@ -12,6 +12,7 @@
 | Revision date | Version # | Description |
 |:-------------:|:---------:|:-----------------------------------:|
 | 2026.03.27 | 0.01 | |
+
 ## = Contents =
 
 ### 1. Business purpose
