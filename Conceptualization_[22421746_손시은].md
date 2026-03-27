@@ -4,8 +4,7 @@
   Student No: 22421746<br>
   Name: 손시은<br>
   E-mail: sonsee2075@gmail.com
- </h3>
-</center>
+ </h3> </center>
 
 ---
 <h3>[Revision history]</h3>
