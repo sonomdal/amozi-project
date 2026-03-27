@@ -6,13 +6,14 @@
   
   E-mail: sonsee2075@gmail.com
 </h3>
-  
+</div>  
 ---------------------------------
-<h1>Revision history</h1>
+<h1>[Revision history]</h1>
 | Revision date | Version # | Description |
 |:-------------:|:---------:|:-----------------------------------:|
 | 2026.03.27 | 0.01 | |
 
+<<div align="center">
 ## = Contents =
 
 ### 1. Business purpose
