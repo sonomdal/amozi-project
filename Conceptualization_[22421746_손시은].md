@@ -1,5 +1,5 @@
 <div align="center">
-<h1>AMOZI</h1>
+# AMOZI
 <h3>
 Student No: 22421746<br>
 Name: 손시은<br>
