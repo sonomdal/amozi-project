@@ -1,10 +1,12 @@
 <center>
+ 
 <h1>AMOZI</h1>
 <h3>
 Student No: 22421746<br>
 Name: 손시은<br>
 E-mail: sonsee2075@gmail.com
 </h3>
+
 </center>
 
 ---
