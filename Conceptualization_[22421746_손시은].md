@@ -1,5 +1,5 @@
 <div align="center">
-# AMOZI
+<h1>AMOZI</h1>
 <h3>
 Student No: 22421746<br>
 Name: 손시은<br>
@@ -9,6 +9,7 @@ E-mail: sonsee2075@gmail.com
 ---------------------------------------------------------------
 <h1>[Revision history]</h1>
 </div>
+
 | Revision date | Version # | Description |
 |:-------------:|:---------:|:-----------------------------------:|
 | 2026.03.27 | 0.01 | |
