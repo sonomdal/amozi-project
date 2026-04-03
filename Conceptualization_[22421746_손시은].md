@@ -1,38 +1,37 @@
-<h1>AMOZI</h1>
-<h3>
-Student No: 22421746<br>
-Name: 손시은<br>
-E-mail: sonsee2075@gmail.com
-</h3> 
-
+# AMOZI
+ 
+### Student No: 22421746
+### Name: 손시은
+### E-mail: sonsee2075@gmail.com
 ---
-<h3>[Revision history]</h3>
+
+### [Revision history]
 
 | Revision date | Version # | Description |
 |:-------------:|:---------:|:-----------------------------------:|
-| 2026.03.27 | 0.1 | First draft |
+| 2026.03.27 | 0.1.0 | First draft |
+| 2026.04.03 | 0.1.1 | First draft |
 
 ---
 
-<h3>= Contents =</h3> 
+### = Contents =
 
-<h3>1. Business purpose</h3>
+### 1. Business purpose
 
-<h3>2. System context diagram</h3>
+### 2. System context diagram
 
-<h3>3. Use case list</h3>
+### 3. Use case list
 
-<h3>4. Concept of operation</h3>
+### 4. Concept of operation
 
-<h3>5. Problem statement</h3>
+### 5. Problem statement
 
-<h3>6. Glossary</h3>
+### 6. Glossary
 
-<h3>7. References</h3>
+### 7. References 
+---
 
--------------------------------------
-
-<h4>1. Business purpose</h4>
+### 1. Business purpose
 
 1) Project background
  
@@ -49,14 +48,26 @@ E-mail: sonsee2075@gmail.com
 
 ---
 
-<h4>2. System context diagram</h4>
+### 2. System context diagram
 
 <img width="3529" height="2829" alt="Group 2" src="https://github.com/user-attachments/assets/ec3328f4-d8af-42c5-a095-efe5fb11dd58" />
 
+* style preference: 사용자의 옷 스타일 선호도
+* situation/: 사용자의 상황이나 목적
+* body condition: 사용자의 신체 상태
+* outfit recommendation: 시스템이 제공하는 옷차림 추천 결과
+* weather summary: 현재 날씨 정보를 요약한 데이터
+* user data: 사용자 관련 정보
+* location data: 사용자의 위치 정보
+* temperature: 현재 기온 정보
+* weather condition: 현재 날씨 상태 정보
+* humidity: 공기 중 습도 정보
+
+* recommendation history: 이전에 제공된 추천 기록
 
 ---
 
-<h4>3. Use case list</h4>
+### 3. Use case list
 
 1) Login / Sign Up
    
@@ -112,7 +123,7 @@ E-mail: sonsee2075@gmail.com
 
 ---
 
-##4. Concept of operation
+### 4. Concept of operation
 
 1) Login / Sign Up
    
@@ -164,37 +175,37 @@ E-mail: sonsee2075@gmail.com
 
 ---
 
-<h4>5. Problem statement</h4>
+### 5. Problem statement
 
-Overview
+#### Overview
 
 사용자들은 매일 옷을 고를 때 날씨, 상황, 개인의 상태 등을 함께 고려해야 한다. 하지만 이러한 요소들을 모두 반영하여 적절한 옷을 선택하는 것은 쉽지 않으며, 이로 인해 불편함을 겪는 경우가 많다. 또한 매일 반복되는 의상 선택 과정은 시간과 노력이 든다. 기존의 추천 서비스는 개인의 선호도나 체감 온도를 충분히 반영하지 못하는 경우가 많다. AMOZI 또한 외부 API를 활용하기 때문에 기술적인 어려움이 존재한다. 아래에서는 이러한 문제들을 구체적으로 설명한다.
 
-Problem #1: Outfit Selection Difficulty
+#### Problem #1: Outfit Selection Difficulty
 
 사용자들은 날씨와 상황을 고려해 옷을 선택하는 데 어려움을 겪는다. 이로 인해 덥거나 추운 옷을 입게 되는 경우가 발생할 수 있다.
 
-Problem #2: Time Consumption
+#### Problem #2: Time Consumption
 
 매일 옷을 고르는 과정이 반복되면 많은 시간을 소모하게 된다. 특히 바쁜 사용자에게는 부담이 될 수 있다.
 
-Problem #3: Lack of Personalization
+#### Problem #3: Lack of Personalization
 
 기존 의상 추천 서비스는 사용자 개인의 스타일이나 체감 온도를 충분히 반영하지 못해 만족도가 낮을 수 있다.
 
-Problem #4: Data Integration
+#### Problem #4: Data Integration
 
 날씨, 사용자 정보, 상황 데이터를 함께 처리해야 하기 때문에 시스템 구현이 복잡해질 수 있다.
 
-Problem #5: API Dependency
+#### Problem #5: API Dependency
 
 외부 API 사용으로 인해 응답 지연이나 오류가 발생할 수 있고 시스템 안정성에 영향을 줄 수 있다. 특히 무료 AI API를 사용할 경우, 사용량 제한이나 응답 품질의 불안정성 등의 문제가 발생할 수 있어 서비스의 안정성과 일관성을 유지하는 데 어려움이 있다.
 
-NFRs
+#### NFRs
 
 1. Performance (성능)
  
-코디 추천 결과는 3초 이내에 제공되어야하고, 외부 API 호출로 인해 지연이 발생하더라도 전체 응답 시간은 5초를 넘지 않도록 해한다.
+코디 추천 결과는 3초 이내에 제공되어야하고 외부 API 호출로 인해 지연이 발생하더라도 전체 응답 시간은 5초를 넘지 않도록 해야한다.
 
 2. Usability (사용성)
 
@@ -214,9 +225,9 @@ NFRs
 
 ---
 
-<h4>6. Glossary</h4>
+### 6. Glossary
 
-* TPO: Time(시간), Place(장소), Occasion(상황)의 약자로, 말하는 때와 장소, 경우에 맞는 복장을 뜻한다.
+* TPO: Time(시간), Place(장소), Occasion(상황)의 약자로, 일상생활에서 시간, 장소, 상황에 맞는 옷차림이나 태도를 의미한다.
   
 * 코디: 패션에서 의상, 신발, 액세서리 등을 조화롭게 맞춰 입는 코디네이션(Coordination)의 줄임말이다. 전체적인 스타일링과 매치를 의미한다.
 
@@ -232,8 +243,7 @@ NFRs
 
 ---
 
-<h4>7. References</h4>
-
+### 7. References
 * OpenWeather API Documentation, https://openweathermap.org/api
 * Google Cloud Weather Data Overview, https://cloud.google.com/
 * OpenAI API Documentation, https://platform.openai.com/docs
