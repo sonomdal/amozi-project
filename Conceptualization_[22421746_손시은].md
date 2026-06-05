@@ -1,4 +1,5 @@
 # AMOZI
+<img width="295" height="178" alt="Group 11" src="https://github.com/user-attachments/assets/9b54251d-d24a-4449-86fe-1c9ba99dbea9" />
 
 ### Student No: 22421746
 ### Name: 손시은
@@ -11,7 +12,7 @@
 |:-------------:|:---------:|:-----------------------------------:|
 | 2026.03.27 | 1.0 | First draft |
 | 2026.05.06 | 1.1 | System context diagram 용어 설명 추가, Use case list 및 Concept of operation 항목 추가 |
-| 2026.06.05 | 1.2 | Use case list 및 Concept of operation 수정 |
+| 2026.06.05 | 1.2 | Use case list 및 Concept of operation 수정, 로고 추가 |
 
 ---
 
